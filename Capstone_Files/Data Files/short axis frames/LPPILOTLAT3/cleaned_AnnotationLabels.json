@@ -1,0 +1,3026 @@
+{
+    "0.jpg": {
+        "filename": "0.jpg",
+        "size": 44522,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 295,
+                    "cy": 254,
+                    "rx": 20,
+                    "ry": 15,
+                    "theta": 0
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "1.jpg": {
+        "filename": "1.jpg",
+        "size": 44615,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 295,
+                    "cy": 256,
+                    "rx": 20,
+                    "ry": 15,
+                    "theta": 0
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "2.jpg": {
+        "filename": "2.jpg",
+        "size": 44574,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 295,
+                    "cy": 254,
+                    "rx": 20,
+                    "ry": 15,
+                    "theta": 0
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "3.jpg": {
+        "filename": "3.jpg",
+        "size": 44440,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 295,
+                    "cy": 254,
+                    "rx": 20,
+                    "ry": 15,
+                    "theta": 0
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "4.jpg": {
+        "filename": "4.jpg",
+        "size": 44348,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 296,
+                    "cy": 256,
+                    "rx": 20,
+                    "ry": 15,
+                    "theta": 0
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "5.jpg": {
+        "filename": "5.jpg",
+        "size": 44016,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 296,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 15,
+                    "theta": 3.142
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "6.jpg": {
+        "filename": "6.jpg",
+        "size": 43748,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 296,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 15,
+                    "theta": 3.142
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "7.jpg": {
+        "filename": "7.jpg",
+        "size": 43982,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 296,
+                    "cy": 257,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "8.jpg": {
+        "filename": "8.jpg",
+        "size": 44069,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 296,
+                    "cy": 257,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "9.jpg": {
+        "filename": "9.jpg",
+        "size": 44149,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 296,
+                    "cy": 257,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "10.jpg": {
+        "filename": "10.jpg",
+        "size": 44289,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 296,
+                    "cy": 257,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "11.jpg": {
+        "filename": "11.jpg",
+        "size": 44450,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 296,
+                    "cy": 257,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "12.jpg": {
+        "filename": "12.jpg",
+        "size": 44508,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 296,
+                    "cy": 257,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "13.jpg": {
+        "filename": "13.jpg",
+        "size": 44548,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 296,
+                    "cy": 257,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "14.jpg": {
+        "filename": "14.jpg",
+        "size": 44311,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 296,
+                    "cy": 257,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "15.jpg": {
+        "filename": "15.jpg",
+        "size": 43910,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 296,
+                    "cy": 257,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "16.jpg": {
+        "filename": "16.jpg",
+        "size": 43726,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 293,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "17.jpg": {
+        "filename": "17.jpg",
+        "size": 43666,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 293,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "18.jpg": {
+        "filename": "18.jpg",
+        "size": 43527,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 293,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "19.jpg": {
+        "filename": "19.jpg",
+        "size": 42994,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 289,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "20.jpg": {
+        "filename": "20.jpg",
+        "size": 42540,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 285,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "21.jpg": {
+        "filename": "21.jpg",
+        "size": 42171,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 279,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "22.jpg": {
+        "filename": "22.jpg",
+        "size": 42286,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 279,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "23.jpg": {
+        "filename": "23.jpg",
+        "size": 42133,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 274,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "24.jpg": {
+        "filename": "24.jpg",
+        "size": 42034,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 269,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "25.jpg": {
+        "filename": "25.jpg",
+        "size": 42070,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 269,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "26.jpg": {
+        "filename": "26.jpg",
+        "size": 42002,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 264,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "27.jpg": {
+        "filename": "27.jpg",
+        "size": 41900,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 259,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "28.jpg": {
+        "filename": "28.jpg",
+        "size": 42173,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 256,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "29.jpg": {
+        "filename": "29.jpg",
+        "size": 42622,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 256,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "30.jpg": {
+        "filename": "30.jpg",
+        "size": 43012,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 256,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "31.jpg": {
+        "filename": "31.jpg",
+        "size": 43273,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 256,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "32.jpg": {
+        "filename": "32.jpg",
+        "size": 43487,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 256,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "33.jpg": {
+        "filename": "33.jpg",
+        "size": 43366,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 256,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "34.jpg": {
+        "filename": "34.jpg",
+        "size": 43158,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 256,
+                    "cy": 256,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "35.jpg": {
+        "filename": "35.jpg",
+        "size": 43113,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 259,
+                    "cy": 254,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "36.jpg": {
+        "filename": "36.jpg",
+        "size": 42924,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 259,
+                    "cy": 254,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "37.jpg": {
+        "filename": "37.jpg",
+        "size": 42960,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 259,
+                    "cy": 254,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "38.jpg": {
+        "filename": "38.jpg",
+        "size": 43254,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 263,
+                    "cy": 254,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "39.jpg": {
+        "filename": "39.jpg",
+        "size": 43332,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 263,
+                    "cy": 254,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "40.jpg": {
+        "filename": "40.jpg",
+        "size": 43106,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 263,
+                    "cy": 254,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "41.jpg": {
+        "filename": "41.jpg",
+        "size": 42944,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 263,
+                    "cy": 254,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "42.jpg": {
+        "filename": "42.jpg",
+        "size": 43082,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 266,
+                    "cy": 254,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "43.jpg": {
+        "filename": "43.jpg",
+        "size": 43188,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 266,
+                    "cy": 254,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "44.jpg": {
+        "filename": "44.jpg",
+        "size": 43144,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 266,
+                    "cy": 254,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "45.jpg": {
+        "filename": "45.jpg",
+        "size": 43229,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 266,
+                    "cy": 254,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "46.jpg": {
+        "filename": "46.jpg",
+        "size": 43283,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 269,
+                    "cy": 253,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "47.jpg": {
+        "filename": "47.jpg",
+        "size": 43256,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 269,
+                    "cy": 253,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "48.jpg": {
+        "filename": "48.jpg",
+        "size": 43293,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 269,
+                    "cy": 253,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "49.jpg": {
+        "filename": "49.jpg",
+        "size": 43407,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 269,
+                    "cy": 253,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "50.jpg": {
+        "filename": "50.jpg",
+        "size": 43138,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 269,
+                    "cy": 253,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "51.jpg": {
+        "filename": "51.jpg",
+        "size": 43035,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 269,
+                    "cy": 253,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "52.jpg": {
+        "filename": "52.jpg",
+        "size": 42834,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 269,
+                    "cy": 253,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "53.jpg": {
+        "filename": "53.jpg",
+        "size": 42332,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 269,
+                    "cy": 253,
+                    "rx": 16,
+                    "ry": 13.038,
+                    "theta": 3.065
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "54.jpg": {
+        "filename": "54.jpg",
+        "size": 41939,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "55.jpg": {
+        "filename": "55.jpg",
+        "size": 41502,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "56.jpg": {
+        "filename": "56.jpg",
+        "size": 41420,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "57.jpg": {
+        "filename": "57.jpg",
+        "size": 41303,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "58.jpg": {
+        "filename": "58.jpg",
+        "size": 41306,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "59.jpg": {
+        "filename": "59.jpg",
+        "size": 41325,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "60.jpg": {
+        "filename": "60.jpg",
+        "size": 41282,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "61.jpg": {
+        "filename": "61.jpg",
+        "size": 41202,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "62.jpg": {
+        "filename": "62.jpg",
+        "size": 41149,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "63.jpg": {
+        "filename": "63.jpg",
+        "size": 41046,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "64.jpg": {
+        "filename": "64.jpg",
+        "size": 41219,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "65.jpg": {
+        "filename": "65.jpg",
+        "size": 41513,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "66.jpg": {
+        "filename": "66.jpg",
+        "size": 41812,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "67.jpg": {
+        "filename": "67.jpg",
+        "size": 42147,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 280,
+                    "cy": 228,
+                    "rx": 15,
+                    "ry": 20.025,
+                    "theta": -3.092
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "68.jpg": {
+        "filename": "68.jpg",
+        "size": 42293,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 281,
+                    "cy": 230,
+                    "rx": 15,
+                    "ry": 20.025,
+                    "theta": -3.092
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "69.jpg": {
+        "filename": "69.jpg",
+        "size": 42450,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 278,
+                    "cy": 229,
+                    "rx": 18.248,
+                    "ry": 20,
+                    "theta": -2.976
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "70.jpg": {
+        "filename": "70.jpg",
+        "size": 42541,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 278,
+                    "cy": 229,
+                    "rx": 18.248,
+                    "ry": 20,
+                    "theta": -2.976
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "71.jpg": {
+        "filename": "71.jpg",
+        "size": 42764,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 278,
+                    "cy": 229,
+                    "rx": 18.248,
+                    "ry": 20,
+                    "theta": -2.976
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "72.jpg": {
+        "filename": "72.jpg",
+        "size": 42950,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 284,
+                    "cy": 233,
+                    "rx": 22.136,
+                    "ry": 20,
+                    "theta": 0.322
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "73.jpg": {
+        "filename": "73.jpg",
+        "size": 42618,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 284,
+                    "cy": 233,
+                    "rx": 22.136,
+                    "ry": 20,
+                    "theta": 0.322
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "74.jpg": {
+        "filename": "74.jpg",
+        "size": 42476,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 284,
+                    "cy": 233,
+                    "rx": 22.136,
+                    "ry": 20,
+                    "theta": 0.322
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "75.jpg": {
+        "filename": "75.jpg",
+        "size": 42373,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 285,
+                    "cy": 236,
+                    "rx": 22.136,
+                    "ry": 20,
+                    "theta": 0.322
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "76.jpg": {
+        "filename": "76.jpg",
+        "size": 42521,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 292,
+                    "cy": 239,
+                    "rx": 27.203,
+                    "ry": 20,
+                    "theta": 0.298
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "77.jpg": {
+        "filename": "77.jpg",
+        "size": 42780,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 292,
+                    "cy": 239,
+                    "rx": 27.203,
+                    "ry": 20,
+                    "theta": 0.298
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "78.jpg": {
+        "filename": "78.jpg",
+        "size": 43105,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 292,
+                    "cy": 239,
+                    "rx": 27,
+                    "ry": 25.298,
+                    "theta": -2.82
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "79.jpg": {
+        "filename": "79.jpg",
+        "size": 42751,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 292,
+                    "cy": 239,
+                    "rx": 27,
+                    "ry": 25.298,
+                    "theta": -2.82
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "80.jpg": {
+        "filename": "80.jpg",
+        "size": 42243,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 296,
+                    "cy": 243,
+                    "rx": 33.106,
+                    "ry": 25,
+                    "theta": 0.437
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "81.jpg": {
+        "filename": "81.jpg",
+        "size": 41766,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 295,
+                    "cy": 240,
+                    "rx": 28.231,
+                    "ry": 25,
+                    "theta": 0.4
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "82.jpg": {
+        "filename": "82.jpg",
+        "size": 41065,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "83.jpg": {
+        "filename": "83.jpg",
+        "size": 40451,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "84.jpg": {
+        "filename": "84.jpg",
+        "size": 40236,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "85.jpg": {
+        "filename": "85.jpg",
+        "size": 40396,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "86.jpg": {
+        "filename": "86.jpg",
+        "size": 40676,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 290,
+                    "cy": 258,
+                    "rx": 39,
+                    "ry": 41,
+                    "theta": 0
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "87.jpg": {
+        "filename": "87.jpg",
+        "size": 41064,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 290,
+                    "cy": 258,
+                    "rx": 39,
+                    "ry": 43.046,
+                    "theta": -0.046
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "88.jpg": {
+        "filename": "88.jpg",
+        "size": 41436,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 290,
+                    "cy": 257,
+                    "rx": 39,
+                    "ry": 43.29,
+                    "theta": 3.026
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "89.jpg": {
+        "filename": "89.jpg",
+        "size": 41808,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 290,
+                    "cy": 253,
+                    "rx": 39,
+                    "ry": 40.112,
+                    "theta": -0.075
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "90.jpg": {
+        "filename": "90.jpg",
+        "size": 41947,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 290,
+                    "cy": 253,
+                    "rx": 39,
+                    "ry": 40.112,
+                    "theta": -0.075
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "91.jpg": {
+        "filename": "91.jpg",
+        "size": 42234,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 290,
+                    "cy": 253,
+                    "rx": 39,
+                    "ry": 40.112,
+                    "theta": -0.075
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "92.jpg": {
+        "filename": "92.jpg",
+        "size": 42196,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 290,
+                    "cy": 253,
+                    "rx": 39,
+                    "ry": 40.112,
+                    "theta": -0.075
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "93.jpg": {
+        "filename": "93.jpg",
+        "size": 42380,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 301,
+                    "cy": 251,
+                    "rx": 47.265,
+                    "ry": 40,
+                    "theta": 0.106
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "94.jpg": {
+        "filename": "94.jpg",
+        "size": 42376,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 304,
+                    "cy": 251,
+                    "rx": 47.265,
+                    "ry": 40,
+                    "theta": 0.106
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "95.jpg": {
+        "filename": "95.jpg",
+        "size": 42454,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 307,
+                    "cy": 251,
+                    "rx": 47.265,
+                    "ry": 40,
+                    "theta": 0.106
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "96.jpg": {
+        "filename": "96.jpg",
+        "size": 42550,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 307,
+                    "cy": 251,
+                    "rx": 47.265,
+                    "ry": 40,
+                    "theta": 0.106
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "97.jpg": {
+        "filename": "97.jpg",
+        "size": 42513,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 307,
+                    "cy": 251,
+                    "rx": 47.265,
+                    "ry": 40,
+                    "theta": 0.106
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "98.jpg": {
+        "filename": "98.jpg",
+        "size": 42218,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 307,
+                    "cy": 251,
+                    "rx": 47.265,
+                    "ry": 40,
+                    "theta": 0.106
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "99.jpg": {
+        "filename": "99.jpg",
+        "size": 41941,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "100.jpg": {
+        "filename": "100.jpg",
+        "size": 41941,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "101.jpg": {
+        "filename": "101.jpg",
+        "size": 41720,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "102.jpg": {
+        "filename": "102.jpg",
+        "size": 41741,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "103.jpg": {
+        "filename": "103.jpg",
+        "size": 41839,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "104.jpg": {
+        "filename": "104.jpg",
+        "size": 42103,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "105.jpg": {
+        "filename": "105.jpg",
+        "size": 42364,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 311,
+                    "cy": 255,
+                    "rx": 44.721,
+                    "ry": 35,
+                    "theta": 0.18
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "106.jpg": {
+        "filename": "106.jpg",
+        "size": 42425,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 313,
+                    "cy": 259,
+                    "rx": 44.721,
+                    "ry": 35,
+                    "theta": 0.18
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "107.jpg": {
+        "filename": "107.jpg",
+        "size": 42256,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 304,
+                    "cy": 254,
+                    "rx": 44.721,
+                    "ry": 35,
+                    "theta": 0.18
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "108.jpg": {
+        "filename": "108.jpg",
+        "size": 42335,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 303,
+                    "cy": 256,
+                    "rx": 44.721,
+                    "ry": 35,
+                    "theta": 0.18
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "109.jpg": {
+        "filename": "109.jpg",
+        "size": 42473,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 303,
+                    "cy": 254,
+                    "rx": 44.721,
+                    "ry": 35,
+                    "theta": 0.18
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "110.jpg": {
+        "filename": "110.jpg",
+        "size": 42511,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 303,
+                    "cy": 254,
+                    "rx": 44.721,
+                    "ry": 35,
+                    "theta": 0.18
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "111.jpg": {
+        "filename": "111.jpg",
+        "size": 42587,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 303,
+                    "cy": 254,
+                    "rx": 44.721,
+                    "ry": 35,
+                    "theta": 0.18
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "112.jpg": {
+        "filename": "112.jpg",
+        "size": 42706,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 305,
+                    "cy": 257,
+                    "rx": 48.836,
+                    "ry": 35,
+                    "theta": 0.185
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "113.jpg": {
+        "filename": "113.jpg",
+        "size": 42727,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 302,
+                    "cy": 255,
+                    "rx": 44.721,
+                    "ry": 35,
+                    "theta": 0.18
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "114.jpg": {
+        "filename": "114.jpg",
+        "size": 42835,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 302,
+                    "cy": 255,
+                    "rx": 44.721,
+                    "ry": 35,
+                    "theta": 0.18
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "115.jpg": {
+        "filename": "115.jpg",
+        "size": 42935,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 302,
+                    "cy": 255,
+                    "rx": 44.721,
+                    "ry": 35,
+                    "theta": 0.18
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "116.jpg": {
+        "filename": "116.jpg",
+        "size": 42924,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 302,
+                    "cy": 255,
+                    "rx": 44.721,
+                    "ry": 35,
+                    "theta": 0.18
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "117.jpg": {
+        "filename": "117.jpg",
+        "size": 43251,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 302,
+                    "cy": 255,
+                    "rx": 44.721,
+                    "ry": 35,
+                    "theta": 0.18
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "118.jpg": {
+        "filename": "118.jpg",
+        "size": 43484,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 302,
+                    "cy": 255,
+                    "rx": 44.721,
+                    "ry": 35,
+                    "theta": 0.18
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "119.jpg": {
+        "filename": "119.jpg",
+        "size": 43361,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 306,
+                    "cy": 255,
+                    "rx": 44.721,
+                    "ry": 35,
+                    "theta": 0.18
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "120.jpg": {
+        "filename": "120.jpg",
+        "size": 42834,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 306,
+                    "cy": 255,
+                    "rx": 44.721,
+                    "ry": 35,
+                    "theta": 0.18
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "121.jpg": {
+        "filename": "121.jpg",
+        "size": 42575,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "122.jpg": {
+        "filename": "122.jpg",
+        "size": 42374,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "123.jpg": {
+        "filename": "123.jpg",
+        "size": 42299,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "124.jpg": {
+        "filename": "124.jpg",
+        "size": 42274,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "125.jpg": {
+        "filename": "125.jpg",
+        "size": 42230,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "126.jpg": {
+        "filename": "126.jpg",
+        "size": 42279,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "127.jpg": {
+        "filename": "127.jpg",
+        "size": 42317,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "128.jpg": {
+        "filename": "128.jpg",
+        "size": 42458,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "129.jpg": {
+        "filename": "129.jpg",
+        "size": 42706,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 314,
+                    "cy": 269,
+                    "rx": 31,
+                    "ry": 36,
+                    "theta": 0
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "130.jpg": {
+        "filename": "130.jpg",
+        "size": 43006,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 314,
+                    "cy": 269,
+                    "rx": 31,
+                    "ry": 36,
+                    "theta": 0
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "131.jpg": {
+        "filename": "131.jpg",
+        "size": 43184,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 308,
+                    "cy": 269,
+                    "rx": 31,
+                    "ry": 36,
+                    "theta": 0
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "132.jpg": {
+        "filename": "132.jpg",
+        "size": 43569,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 308,
+                    "cy": 269,
+                    "rx": 31,
+                    "ry": 36,
+                    "theta": 0
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "133.jpg": {
+        "filename": "133.jpg",
+        "size": 43739,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 308,
+                    "cy": 269,
+                    "rx": 31,
+                    "ry": 36,
+                    "theta": 0
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "134.jpg": {
+        "filename": "134.jpg",
+        "size": 43866,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 308,
+                    "cy": 269,
+                    "rx": 31,
+                    "ry": 36,
+                    "theta": 0
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "135.jpg": {
+        "filename": "135.jpg",
+        "size": 44046,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 308,
+                    "cy": 269,
+                    "rx": 36.056,
+                    "ry": 32,
+                    "theta": 3.086
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "136.jpg": {
+        "filename": "136.jpg",
+        "size": 44060,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 309,
+                    "cy": 265,
+                    "rx": 36.056,
+                    "ry": 32,
+                    "theta": 3.086
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "137.jpg": {
+        "filename": "137.jpg",
+        "size": 43982,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 267,
+                    "rx": 37.855,
+                    "ry": 32,
+                    "theta": 0.213
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "138.jpg": {
+        "filename": "138.jpg",
+        "size": 43822,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 267,
+                    "rx": 37.855,
+                    "ry": 32,
+                    "theta": 0.213
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "139.jpg": {
+        "filename": "139.jpg",
+        "size": 43735,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 267,
+                    "rx": 37.855,
+                    "ry": 32,
+                    "theta": 0.213
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "140.jpg": {
+        "filename": "140.jpg",
+        "size": 43605,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 267,
+                    "rx": 37.855,
+                    "ry": 32,
+                    "theta": 0.213
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "141.jpg": {
+        "filename": "141.jpg",
+        "size": 43545,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 267,
+                    "rx": 37.855,
+                    "ry": 32,
+                    "theta": 0.213
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "142.jpg": {
+        "filename": "142.jpg",
+        "size": 43280,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 267,
+                    "rx": 37.855,
+                    "ry": 32,
+                    "theta": 0.213
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "143.jpg": {
+        "filename": "143.jpg",
+        "size": 42982,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 267,
+                    "rx": 37.855,
+                    "ry": 32,
+                    "theta": 0.213
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "144.jpg": {
+        "filename": "144.jpg",
+        "size": 42964,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 267,
+                    "rx": 37.855,
+                    "ry": 32,
+                    "theta": 0.213
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "145.jpg": {
+        "filename": "145.jpg",
+        "size": 43002,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 267,
+                    "rx": 37.855,
+                    "ry": 32,
+                    "theta": 0.213
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "146.jpg": {
+        "filename": "146.jpg",
+        "size": 43127,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 267,
+                    "rx": 37.855,
+                    "ry": 32,
+                    "theta": 0.213
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "147.jpg": {
+        "filename": "147.jpg",
+        "size": 43319,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 267,
+                    "rx": 37.855,
+                    "ry": 32,
+                    "theta": 0.213
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "148.jpg": {
+        "filename": "148.jpg",
+        "size": 43444,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 267,
+                    "rx": 37.855,
+                    "ry": 32,
+                    "theta": 0.213
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "149.jpg": {
+        "filename": "149.jpg",
+        "size": 43508,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 267,
+                    "rx": 37.855,
+                    "ry": 32,
+                    "theta": 0.213
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "150.jpg": {
+        "filename": "150.jpg",
+        "size": 43530,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "151.jpg": {
+        "filename": "151.jpg",
+        "size": 43569,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "152.jpg": {
+        "filename": "152.jpg",
+        "size": 43632,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "153.jpg": {
+        "filename": "153.jpg",
+        "size": 43561,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "154.jpg": {
+        "filename": "154.jpg",
+        "size": 43595,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "155.jpg": {
+        "filename": "155.jpg",
+        "size": 43608,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "156.jpg": {
+        "filename": "156.jpg",
+        "size": 43713,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "157.jpg": {
+        "filename": "157.jpg",
+        "size": 43766,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "158.jpg": {
+        "filename": "158.jpg",
+        "size": 43811,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "159.jpg": {
+        "filename": "159.jpg",
+        "size": 43878,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "160.jpg": {
+        "filename": "160.jpg",
+        "size": 43920,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "161.jpg": {
+        "filename": "161.jpg",
+        "size": 43989,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "162.jpg": {
+        "filename": "162.jpg",
+        "size": 44066,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "163.jpg": {
+        "filename": "163.jpg",
+        "size": 44127,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "164.jpg": {
+        "filename": "164.jpg",
+        "size": 44162,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "165.jpg": {
+        "filename": "165.jpg",
+        "size": 44062,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "166.jpg": {
+        "filename": "166.jpg",
+        "size": 44101,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "167.jpg": {
+        "filename": "167.jpg",
+        "size": 43981,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "168.jpg": {
+        "filename": "168.jpg",
+        "size": 43968,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "169.jpg": {
+        "filename": "169.jpg",
+        "size": 43828,
+        "regions": [],
+        "file_attributes": {}
+    },
+    "170.jpg": {
+        "filename": "170.jpg",
+        "size": 43847,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 319,
+                    "cy": 280,
+                    "rx": 34.132,
+                    "ry": 26,
+                    "theta": 3.054
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "171.jpg": {
+        "filename": "171.jpg",
+        "size": 44008,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 321,
+                    "cy": 283,
+                    "rx": 34.132,
+                    "ry": 26,
+                    "theta": 3.054
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "172.jpg": {
+        "filename": "172.jpg",
+        "size": 44198,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 321,
+                    "cy": 283,
+                    "rx": 34.132,
+                    "ry": 26,
+                    "theta": 3.054
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "173.jpg": {
+        "filename": "173.jpg",
+        "size": 44220,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 321,
+                    "cy": 283,
+                    "rx": 34.132,
+                    "ry": 26,
+                    "theta": 3.054
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "174.jpg": {
+        "filename": "174.jpg",
+        "size": 44413,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 321,
+                    "cy": 283,
+                    "rx": 34.132,
+                    "ry": 26,
+                    "theta": 3.054
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "175.jpg": {
+        "filename": "175.jpg",
+        "size": 44443,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 308,
+                    "cy": 281,
+                    "rx": 34.132,
+                    "ry": 26,
+                    "theta": 3.054
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "176.jpg": {
+        "filename": "176.jpg",
+        "size": 44553,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 313,
+                    "cy": 284,
+                    "rx": 34.132,
+                    "ry": 26,
+                    "theta": 3.054
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "177.jpg": {
+        "filename": "177.jpg",
+        "size": 44368,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 313,
+                    "cy": 277,
+                    "rx": 34.132,
+                    "ry": 26,
+                    "theta": 3.054
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "178.jpg": {
+        "filename": "178.jpg",
+        "size": 44219,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 314,
+                    "cy": 280,
+                    "rx": 34,
+                    "ry": 26,
+                    "theta": 0.49
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "179.jpg": {
+        "filename": "179.jpg",
+        "size": 44402,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 314,
+                    "cy": 280,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "180.jpg": {
+        "filename": "180.jpg",
+        "size": 44452,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 314,
+                    "cy": 280,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "181.jpg": {
+        "filename": "181.jpg",
+        "size": 44454,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 319,
+                    "cy": 279,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "182.jpg": {
+        "filename": "182.jpg",
+        "size": 44439,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 319,
+                    "cy": 279,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "183.jpg": {
+        "filename": "183.jpg",
+        "size": 44298,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 319,
+                    "cy": 279,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "184.jpg": {
+        "filename": "184.jpg",
+        "size": 44199,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 319,
+                    "cy": 279,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "185.jpg": {
+        "filename": "185.jpg",
+        "size": 44013,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 319,
+                    "cy": 279,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "186.jpg": {
+        "filename": "186.jpg",
+        "size": 43825,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 319,
+                    "cy": 279,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "187.jpg": {
+        "filename": "187.jpg",
+        "size": 43733,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 319,
+                    "cy": 279,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "188.jpg": {
+        "filename": "188.jpg",
+        "size": 43807,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 280,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "189.jpg": {
+        "filename": "189.jpg",
+        "size": 44074,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 280,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "190.jpg": {
+        "filename": "190.jpg",
+        "size": 44239,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 280,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "191.jpg": {
+        "filename": "191.jpg",
+        "size": 44345,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 280,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "192.jpg": {
+        "filename": "192.jpg",
+        "size": 44093,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 280,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "193.jpg": {
+        "filename": "193.jpg",
+        "size": 43988,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 280,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "194.jpg": {
+        "filename": "194.jpg",
+        "size": 43875,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 280,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "195.jpg": {
+        "filename": "195.jpg",
+        "size": 44047,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 280,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "196.jpg": {
+        "filename": "196.jpg",
+        "size": 43994,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 280,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "197.jpg": {
+        "filename": "197.jpg",
+        "size": 43984,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 280,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "198.jpg": {
+        "filename": "198.jpg",
+        "size": 44010,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 280,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "199.jpg": {
+        "filename": "199.jpg",
+        "size": 44146,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 280,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "200.jpg": {
+        "filename": "200.jpg",
+        "size": 44066,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 315,
+                    "cy": 280,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "201.jpg": {
+        "filename": "201.jpg",
+        "size": 43863,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "ellipse",
+                    "cx": 319,
+                    "cy": 278,
+                    "rx": 31,
+                    "ry": 28.844,
+                    "theta": -2.554
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    }
+}
